@@ -1,0 +1,1 @@
+objPlayer.sprite_index = sprPlayerJump;

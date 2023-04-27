@@ -1,0 +1,1 @@
+#macro fname "data.ini"

@@ -1,0 +1,12 @@
+draw_set_font(mainFont);
+scene = 0;
+zero = false;
+uno = false;
+dos = false;
+tres = false;
+cuatro = false;
+cinco = false;
+seis = false;
+siete = false;
+ocho = false;
+nueve = false;
